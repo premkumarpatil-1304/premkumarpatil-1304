@@ -1,111 +1,281 @@
-# 💫 About Me:
-🚀 Full-Stack Developer | FastAPI | React | MongoDB | DSA Enthusiast  
-💡 Passionate about building scalable, efficient, and user-centric web applications that make real-world impact.  
-👯 I’m looking to collaborate on: Full-stack development, hackathons, and open-source projects.  
-🤝 I’m looking for help with: Advanced techniques in DSA and modern web architecture.  
-🌱 I’m currently learning: Next.js, Cloud Deployment, and Advanced Algorithms.  
-💬 Ask me about: Java, Python, FastAPI, React.js, MongoDB, and full-stack web development.  
-⚡ Fun fact: I built 3 full-stack apps integrating AI/ML and scalable backend systems while still in college!
+
+<!--
+  Premkumar Patil | GitHub Profile README
+-->
+
+<div align="center">
+
+# 👋 Hey, I'm Premkumar Patil
+
+### Full-Stack Developer | AI/ML Enthusiast | Java & DSA
+
+Building intelligent, scalable web applications with modern technologies.
+
+<p>
+  <a href="mailto:13premkp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/premkumarpatil1304/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/PremkumarPatil/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://prem-portfolio-ten-beta.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/premkumarpatil-1304">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=premkumarpatil-1304&style=flat-square&color=7C3AED)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:13premkp@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/premkumarpatil)
-[![GitHub](https://img.shields.io/badge/GitHub-171515.svg?logo=github&logoColor=white)](https://github.com/premkumarpatil-1304)
+## 👨‍💻 About Me
+
+I'm a Software Developer and final-year Electronics & Telecommunication Engineering student passionate about building real-world software solutions.
+
+- 💻 Full-stack development with React, FastAPI, and MongoDB.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🧠 Strong foundations in Java, Python, OOP, and Data Structures & Algorithms.
+- ⚙️ Exploring scalable backend systems, cloud deployment, and modern web architecture.
+- 🏢 Technical Intern at Alltius Pvt. Ltd., contributing to the Binnie Smart Waste Management System.
+- 🚀 Built projects involving AI-powered finance, civic engagement, and real-time music synchronization.
+- 🤝 Open to internships, hackathons, full-stack collaborations, and open-source projects.
 
 ---
 
-# 💻 Tech Stack:
-**Languages:**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🎓 Education
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+| Institution | Degree | Duration | CGPA |
+|---|---|---|---|
+| Jayawantrao Sawant College of Engineering | BE – Electronics & Telecommunication Engineering | 2023–2027 | **7.7** |
 
-**Backend & Databases:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Data & Tools:**  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/seaborn-%23121011.svg?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+📍 Pune, Maharashtra, India
 
 ---
 
-# 🚀 Featured Projects:
+## 🎯 Open To
 
-### 🏙️ [CrowdSourced Civic Sense Platform](https://github.com/premkumarpatil-1304/Crowdsourced--Civic-Sense.git)
-> Full-stack civic engagement platform (React, FastAPI, MongoDB) enabling citizens to report issues, upvote, track progress, and manage via dual login.  
-> ⏱ Built prototype in 40+ hours at MIT Kurukshetra Hackathon 2025.  
-> 🔗 Real-time updates, multi-category reports, and admin dashboard.
-
----
-
-### 💰 [FinZer – AI-Powered Personal Finance App](https://finzer-financial-advisor.vercel.app/)
-> A production-ready fintech web app integrating 3 AI/ML models for budgeting, investment, and chat assistance.  
-> ⚙️ Stack: React, FastAPI, MongoDB, AWS.  
-> 📈 Includes dashboards, authentication, and learning guide with multimedia.
+| Opportunity | Interest |
+|---|---|
+| 💼 Software Development Internships | Full-stack and backend development |
+| 🌐 Full-Stack Development | React, FastAPI, and modern web applications |
+| 🤖 AI/ML Projects | Intelligent applications and AI integration |
+| 🧑‍💻 Open Source | Collaborative development and contributions |
+| 🏆 Hackathons | Building impactful software solutions |
 
 ---
 
-### 🍳 [Virtual Cooking Mentor (WIP)](https://github.com/premkumarpatil-1304/Cooking-Mentor.git)
-> Recipe management web app with CRUD, live preview, and ingredient builder.  
-> 🧠 Future scope: AI recipe generator and chatbot.  
-> 💻 Stack: React, FastAPI, Clerk.
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" alt="Java, Python, C++, JavaScript, TypeScript"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind" alt="HTML, CSS, React, Next.js, Bootstrap, Tailwind CSS"/>
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express,mongodb,mysql,postgres" alt="FastAPI, Spring Boot, Node.js, Express, MongoDB, MySQL, PostgreSQL"/>
+</p>
+
+### 📊 Data Science & AI/ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</p>
+
+### ☁️ Cloud, Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode,figma,vercel,netlify,docker" alt="AWS, Git, GitHub, Linux, VS Code, Figma, Vercel, Netlify, Docker"/>
+</p>
+
+### 📋 Skills Overview
+
+| Category | Technologies & Skills |
+|---|---|
+| Languages | Java, Python, C++, JavaScript, TypeScript, SQL |
+| Frontend | HTML5, CSS3, React.js, Next.js, Bootstrap, Tailwind CSS, GSAP |
+| Backend | FastAPI, Spring Boot, Node.js, Express.js, REST APIs, GraphQL |
+| Databases | MongoDB, MySQL, PostgreSQL |
+| Authentication | JWT, Role-Based Access Control, Clerk |
+| Real-Time Systems | WebSockets, Real-Time Communication |
+| Software Engineering | OOP, DSA, Problem Solving, Basic System Design |
+| AI/ML & Data | AI Fundamentals, ML Fundamentals, Prompt Engineering, NumPy, Pandas, Matplotlib, Seaborn |
+| Tools | Git, GitHub, Linux, VS Code, Figma, Power BI |
+| Deployment | AWS, Vercel, Netlify, Render |
 
 ---
 
-# 🎓 Certifications:
-✅ **MongoDB Certified Developer**  
-✅ **Infosys:** C & Java Programming  
-✅ **Udemy:** Full-Stack Development, Advanced Java, CSS, JS, Bootstrap  
-✅ **HackerRank:** SQL Certification  
-✅ **Vodafone Idea:** Power BI Certification  
+## 💼 Experience
+
+### Technical Intern — Alltius Pvt. Ltd.
+**January 2026**
+
+Worked on **Binnie**, a Smart Waste Management System.
+
+- Contributed to system design and embedded controller integration using Raspberry Pi.
+- Implemented control logic for automated operations.
+- Collaborated with cross-functional teams to develop, test, debug, and optimize automation modules.
+- Assisted with system testing, troubleshooting, and deployment.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=premkumarpatil-1304&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=premkumarpatil-1304&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=premkumarpatil-1304&theme=radical&hide_border=false&layout=compact)
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏙️ CrowdSourced Civic Sense</h3>
+      <p>A civic engagement platform where citizens report public issues and officials manage resolutions.</p>
+      <p><b>Features:</b> Issue reporting, upvoting, location mapping, real-time status tracking, and role-based access.</p>
+      <p><b>Stack:</b> React · FastAPI · MongoDB</p>
+      <a href="https://github.com/premkumarpatil-1304/Crowdsourced--Civic-Sense.git">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="View Civic Sense Project"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>💰 FinZer — AI Finance Platform</h3>
+      <p>An AI-enabled personal finance platform for spending analysis and budgeting assistance.</p>
+      <p><b>Features:</b> Personalized recommendations, JWT authentication, responsive dashboards, and financial learning resources.</p>
+      <p><b>Stack:</b> React · FastAPI · MongoDB · AWS</p>
+      <a href="https://finzer-financial-advisor.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat&logo=vercel&logoColor=white" alt="FinZer Live Demo"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎵 BeatSync — Real-Time Music Rooms</h3>
+      <p>A collaborative music application with synchronized playback and communication between users.</p>
+      <p><b>Features:</b> Shared music playback, room management, live chat, and WebSocket communication.</p>
+      <p><b>Stack:</b> React · FastAPI · WebSockets</p>
+    </td>
+    <td width="50%">
+      <h3>🍳 Virtual Cooking Mentor</h3>
+      <p>A recipe management application focused on interactive cooking and recipe organization.</p>
+      <p><b>Features:</b> Recipe CRUD, live preview, ingredient builder, and planned AI recipe generation.</p>
+      <p><b>Stack:</b> React · FastAPI · Clerk</p>
+      <a href="https://github.com/premkumarpatil-1304/Cooking-Mentor.git">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white" alt="View Cooking Mentor Project"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Achieved a **Top 10 rank at MIT Kurukshetra Hackathon 2025**.
+- 🚀 Developed a full-stack civic engagement platform using React, FastAPI, and MongoDB.
+- 💡 Built applications integrating AI/ML capabilities and scalable backend systems.
+- 🧠 Practicing Java, DSA, and problem-solving.
+
+---
+
+## 📜 Certifications
+
+| Certification | Provider |
+|---|---|
+| MongoDB Certified Developer | MongoDB |
+| Data Analytics | CodeCamp |
+| Full-Stack Development | Udemy |
+| Core Java | Udemy |
+| CSS, JavaScript & Bootstrap | Udemy |
+| SQL Certification | HackerRank |
+| C & Java Programming | Infosys |
+| Power BI Certification | Vodafone Idea |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=premkumarpatil-1304&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumarpatil-1304&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=premkumarpatil-1304&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=premkumarpatil-1304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=premkumarpatil-1304&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=premkumarpatil-1304&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+
+</div>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=premkumarpatil-1304&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 🎯 Current Focus
+
+| 📚 Learning | 🚀 Building | 🌱 Exploring |
+|---|---|---|
+| Next.js | Full-stack applications | Cloud deployment |
+| Advanced DSA | AI-powered products | Modern web architecture |
+| System Design | Real-time applications | Advanced algorithms |
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=premkumarpatil-1304&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🤝 Connect With Me
 
-<!-- Updated with Resume alignment - Created using GPRM Template -->
+<div align="center">
+
+<a href="mailto:13premkp@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+</a>
+
+<a href="https://www.linkedin.com/in/premkumarpatil1304/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/u/PremkumarPatil/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://prem-portfolio-ten-beta.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://github.com/premkumarpatil-1304">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**"Code. Learn. Build. Repeat." 🚀**
+
+</div>
