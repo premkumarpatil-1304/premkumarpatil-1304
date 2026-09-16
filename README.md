@@ -44,7 +44,6 @@ Working as a Technical Intern at Alltius Pvt. Ltd. on the Binnie Smart Waste Man
 
 <div align="center"> <img src="https://img.shields.io/badge/Software%20Development%20Internships-2563EB?style=for-the-badge&logo=briefcase&logoColor=white" alt="Software development internships" />
 <img src="https://img.shields.io/badge/Full--Stack%20Projects-0F766E?style=for-the-badge&logo=react&logoColor=white" alt="Full-stack projects" />
-<img src="https://img.shields.io/badge/AI%2FML%20Collaborations-4338CA?style=for-the-badge&logo=python&logoColor=white" alt="AI ML collaborations" />
 <img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-0891B2?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps and cloud" />
 <img src="https://img.shields.io/badge/Open%20Source-16A34A?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open source" /> </div>
 
